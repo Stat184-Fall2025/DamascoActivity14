@@ -1,0 +1,19 @@
+Goals
+	•	Complete Activity #14 by performing data wrangling, visualization, and writing the final report (PDF + QMD).
+	•	Create and maintain a GitHub repository that shows proper version control (branches, issues, commits, and pull requests).
+	•	Keep the repo organized and easy to navigate for grading.
+
+Needs
+	•	A public GitHub repo with a clear structure.
+	•	Files required for the assignment: QMD, PDF, README, and this plan.
+	•	At least one additional branch and two GitHub Issues.
+	•	A simple workflow for updating files and keeping the repo clean.
+
+Steps
+	1.	Create the repository and add a README.
+	2.	Make a second branch (ex: dev or updates) for edits.
+	3.	Open GitHub Issues to track tasks (ex: upload files, write README).
+	4.	Upload QMD and PDF from Activity #14.  ￼
+	5.	Commit and push changes, then open a pull request to merge updates into the main branch.
+	6.	Add this plan document as a separate file.
+	7.	Keep the repo organized by placing supporting files (QMD, PDF) in a logical folder such as /docs/.
